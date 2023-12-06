@@ -1,2 +1,2 @@
 # advent-of-code-2023
-Solutions of AoC 2020 in Julia
+Solutions of AoC 2023 in Julia
